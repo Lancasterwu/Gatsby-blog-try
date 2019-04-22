@@ -4,7 +4,7 @@
 // m = Medium Thumbnail (320×320)
 // l = Large Thumbnail (640×640)
 // h = Huge Thumbnail (1024×1024)
-const defaultPicture = 'M795H8A.jpg';
+const defaultPicture = 'gVX3yPJ.gif';
 
 const parseImgur = (rawImage, size = 'large') => {
   if (!rawImage) {
