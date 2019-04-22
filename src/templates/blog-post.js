@@ -63,7 +63,7 @@ class BlogPost extends Component {
     return (
       <div className="row post order-2">
         <Header
-          img={headerImage || 'https://i.imgur.com/M795H8A.jpg'}
+          img={headerImage || 'https://i.imgur.com/gVX3yPJ.gif'}
           title={title}
           authorName={name}
           authorImage={iconUrl}
@@ -97,7 +97,7 @@ class BlogPost extends Component {
           siteTitleAlt="Calpa's Blog"
           isPost={false}
           description={excerpt}
-          image={headerImage || 'https://i.imgur.com/M795H8A.jpg'}
+          image={headerImage || 'https://i.imgur.com/gVX3yPJ.gif'}
         />
       </div>
     );
