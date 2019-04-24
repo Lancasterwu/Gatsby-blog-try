@@ -1,27 +1,27 @@
 {
-  "url": "https://calpa.me",
+  "url": "https://creatoken.netlify.com/",
   "meta": {
-    "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
+    "favicon": "https://i.imgur.com/rc0wfvi.jpg",
     "keyword": "calpa, blog, JavaScript",
     "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
     "theme_color": "#384f7c",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
-  "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
+  "name": "CreaToken",
+  "about": "emptypath",
+  "email": "wuj@allegheny.edu",
   "stats": {
-    "image": "https://i.imgur.com/VjBWiSt.png",
-    "title": "過去三十日數據",
-    "description": "過去三十日數據"
+    "image": "emptypath",
+    "title": "emptypath",
+    "description": "emptypath"
   },
-  "title": "Calpa 的技術博客",
+  "title": "Creative Token Market",
   "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
-    "clientID": "18255f031b5e11edd98a",
-    "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
+    "repo": "https://github.com/Lancasterwu/Gatsby-blog-try",
+    "admin": ["Lancasterwu"],
+    "owner": "Lancasterwu",
+    "clientID": "c91c2efd50852457b47f",
+    "clientSecret": "ef026ee0f8cdba42ef90664fcc810aaa92a024e2",
     "pagerDirection": "first",
     "distractionFreeMode": true
   },
